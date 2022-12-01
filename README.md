@@ -1,2 +1,3 @@
-# intro_to_algorithms
-notes and examples for the book
+# intro to algorithms
+
+##notes and examples for the book
