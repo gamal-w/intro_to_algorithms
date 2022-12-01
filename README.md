@@ -1,3 +1,3 @@
 # intro to algorithms
 
-##notes and examples for the book
+### notes and codes
